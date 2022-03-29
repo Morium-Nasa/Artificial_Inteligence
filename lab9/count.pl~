@@ -1,7 +1,7 @@
-count_to_10(10):-
-    write(20),n1.
+count_to_10(20):-
+    write(20),nl.
 count_to_10(X):-
-    write(X),n1,
+    write(X),nl,
 
     Y is X+1,
     count_to_10(Y).

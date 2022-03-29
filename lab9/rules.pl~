@@ -8,7 +8,7 @@ teaches(arif,cse211).
 teaches(shafkat,cse311).
 teaches(khadija,cse411).
 
-teacher(x,y):-
-    teaches(x,c),studies(y,c).
+teacher(X,Y):-
+    teaches(X,C),studies(Y,C).
 
 
