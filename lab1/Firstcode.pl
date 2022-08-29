@@ -1,6 +1,6 @@
 likes(john,mary).
-valuable(gold).
+valuable(pink).
 female(jane).
-owns(jane,gold).
+owns(jane,pink).
 valuable(silver).
 
